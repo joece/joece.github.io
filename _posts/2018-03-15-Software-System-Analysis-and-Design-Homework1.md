@@ -71,26 +71,25 @@ title: "SSAD HW1"
 ### 2、解释 PSP 各项指标及技能要求
 - __阅读《现代软件工程》的 PSP：Personal Software Process 章节，按表格 PSP 2.1，了解一个软件工程师在接到一个任务之后要做什么，需要哪些技能，解释你打算如何统计每项数据？__ 
 
-<center><b>Table PSP 2.1</b>
-    
+<center><b>Table PSP 2.1</b></center>
+
+
 |   PSP State   |  Description  | Statistics Standard |
 | ------------- | ------------- | ------------- |
 | Planning  |  计划阶段             |            |
-|    · Estimate  |   · 估计这个任务需要多少时间   |             |
+|    · Estimate  |   · 估计这个任务需要多少时间   |统计完成计划制定（包含ddl制定）所花的时间|
 | Development  | 开发阶段      |            |
-|    · Analysis  |   · 分析需求   |             |
-|    · Design Spec |   · 生成设计文档   |             |
-|    · Design Review |   · 设计复审（和同事审核设计文档）   |             |
-|    · Coding Standard |   · 代码规范（为目前的开发制定合适的规范）   |             |
-|    · Design|   · 具体设计   |             |
-|    · Coding |   · 具体编码  |             |
-|    · Code Review |   · 代码复审   |             |
-|    · Test |   · 测试（包括自我测试、修改代码、提交修改）   |             |
-| Record Time Spent | 记录时间花费   |             |
-| Test Report | 测试报告   |             |
+|    · Analysis  |   · 分析需求   | 统计个人分析需求时，包含收集数据，调查需求等过程所耗的时间与人力 |
+|    · Design Spec |   · 生成设计文档   | 统计通过需求分析后的结果，完成产品设计文案所花的时间 |
+|    · Design Review |   · 设计复审（和同事审核设计文档）  |统计完成设计后，寻求同伴共同探讨审核设计文案（设计合理性与可行性）并最终定案所用时间 |
+|    · Coding Standard |   · 代码规范（为目前的开发制定合适的规范）   |统计确定设计后，为所设计的产品制定合适的代码规范所用时间 |
+|    · Design|   · 具体设计   |统计确定规范后直至具体编码前所做的具体设计用时|
+|    · Coding |   · 具体编码  |记录具体编码（实现基本编码）阶段所用时长 |
+|    · Code Review |   · 代码复审   |统计代码审核（仅做基本代码审查工作）的用时|
+|    · Test |   · 测试（包括自我测试、修改代码、提交修改）   |统计审查代码后所作的自我测试、修改代码并提交修改最终完成所用时间 |
+| Record Time Spent | 记录时间花费   |将以上所有工作总耗时统计一次，并分别计算占比 |
+| Test Report | 测试报告   |将测试过程中涉及到的问题已解决方法写成报告，并记录大概用时|
 | Size Measurement | 计算工作量   |            |
-| Record Time Spent | 记录时间花费   |             |
 | Postmortem | 事后总结   |             |
 | Process Improvement Plan | 提出过程改进计划   |             |
-</center>
 
