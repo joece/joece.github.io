@@ -33,9 +33,7 @@ title: "SSAD HW1"
     - 有机项目——相对较小、较简单的软件项目，由较小的有经验的团队来完成，需求较少并且没有过份严格的限定
     - 中度分离项目——指中等规模（大小及复杂度）的软件项目，由不同经验水平的人组成的团队来完成，需求中即有严格的部分也有不太严格的部分
     - 嵌入式项目——指软件项目必须依赖于一套紧凑的硬件、软件以及符合操作限制
-         
-         
-
+<br>
 - __软件生命周期__
 
     [__软件生命周期（Software Development LifeCycle）__](https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/861455?fr=aladdin) 是指软件的产生直到报废或停止使用的生命周期。周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段。但随着新的面向对象的设计方法和技术的成熟，这样的周期概念也正逐渐减弱。
@@ -53,9 +51,7 @@ title: "SSAD HW1"
     - 软件开发过程（Software Development Process）
     - 软件工程工具与方法（Software Engineering Tools and methods）
     - 软件质量（Software Quality）
-            
-       
-
+<br>
 - __解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式__
     
     - Level 1 - Initial：无序，自发生产模式
@@ -80,7 +76,7 @@ title: "SSAD HW1"
 |   PSP State   |  Description  | Statistics Standard |
 | ------------- | ------------- | ------------- |
 | __Planning__  |  __计划阶段__             |            |
-|      Estimate  |     估计这个任务需要多少时间   |统计完成计划制定（包含ddl制定）所花的时间|
+|      Estimate  |      估计这个任务需要多少时间   |统计完成计划制定（包含ddl制定）所花的时间|
 | __Development__  | __开发阶段__      |            |
 |      Analysis  |     分析需求   | 统计个人分析需求时，包含收集数据，调查需求等过程所耗的时间与人力 |
 |      Design Spec |     生成设计文档   | 统计通过需求分析后的结果，完成产品设计文案所花的时间 |
