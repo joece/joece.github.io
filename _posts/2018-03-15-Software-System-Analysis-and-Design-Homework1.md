@@ -83,7 +83,7 @@ title: "Homework1"
 |    · Test |     · 测试（包括自我测试、修改代码、提交修改）    |             |
 | Record Time Spent |  记录时间花费    |             |
 | Test Report |  测试报告    |             |
-| Size Measurement |  计算工作量    |             |
+| Size Measurement | 计算工作量    |            |
 | Record Time Spent |  记录时间花费    |             |
 | Postmortem |  事后总结    |             |
 | Process Improvement Plan |  提出过程改进计划    |             |
