@@ -2,9 +2,9 @@
 layout: post
 title: "Homework1"
 ---
-### Homework1 of Software-System-Analysis-and-Design
+ <center>#### Homework1 of Software-System-Analysis-and-Design</center>
 
-#### 简答题
+#### 1、简答题
 - __软件工程的定义__
 
     关于软件工程的定义，在 GB/T11457-2006 《信息技术 软件工程术语》中将其定义为"应用计算机科学理论和技术以及工程管理原则和方法，按预算和进度，实现满足用户要求的软件产品的定义、开发、和维护的工程或进行研究的学科"。简单地理解，可以说软件工程是一门研究用工程化方法构建和维护有效的、实用的和高质量的软件的学科，涉及了程序设计语言、数据库、软件开发工具、系统平台、标准、设计模式等方面。
@@ -38,6 +38,25 @@ $$P=E/D$$    
     - 嵌入式项目——指软件项目必须依赖于一套紧凑的硬件、软件以及符合操作限制
          
 - __软件生命周期__
+软件生命周期（Software Development LifeCycle）是指软件的产生直到报废或停止使用的生命周期。周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段。但随着新的面向对象的设计方法和技术的成熟，这样的周期概念也正逐渐减弱。
+
 - __按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？__
+    - 软件需求（Software requirements）
+    - 软件设计（Software design）
+    - 软件建构（Software construction）
+    - 软件测试（Software test）
+    - 软件维护与更新（Software maintenance）
+    - 软件构型管理（Software Configuration Management, SCM）
+    - 软件工程管理（Software Engineering Management）
+    - 软件开发过程（Software Development Process）
+    - 软件工程工具与方法（Software Engineering Tools and methods）
+    - 软件质量（Software Quality）
+
 - __解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式__
+    - Level 1 - Initial：无序，自发生产模式
+    - Level 2 - Managed：建立了基本的项目管理过程来跟踪费用、进度和功能特性。制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验
+    - Level 3 - Defined：已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。所有项目均使用经批准、剪裁的标准软件过程来开发和维护软件，软件产品的生产在整个软件过程是可见的
+    - Level 4 - Quantitatively Managed：分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。管理有一个作出结论的客观依据，管理能够在定量的范围内预测性能
+    - Level 5 - Optimizing：过程的量化反馈和先进的新思想、新技术促使过程持续不断改进
+    
 - __用自己语言简述 SWEBok 或 CMMI （约200字）__
