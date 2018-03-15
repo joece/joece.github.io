@@ -52,8 +52,8 @@ title: "SSAD HW1"
     - 软件开发过程（Software Development Process）
     - 软件工程工具与方法（Software Engineering Tools and methods）
     - 软件质量（Software Quality）
-<br>
 
+<br>
 - __解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式__
     
     - Level 1 - Initial：无序，自发生产模式
@@ -61,8 +61,8 @@ title: "SSAD HW1"
     - Level 3 - Defined：已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。所有项目均使用经批准、剪裁的标准软件过程来开发和维护软件，软件产品的生产在整个软件过程是可见的
     - Level 4 - Quantitatively Managed：分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。管理有一个作出结论的客观依据，管理能够在定量的范围内预测性能
     - Level 5 - Optimizing：过程的量化反馈和先进的新思想、新技术促使过程持续不断改进
-<br>
 
+<br>
 - __用自己语言简述 SWEBok 或 CMMI （约200字）__
 
     [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) 全称是 Capability Maturity Model Integration，即 __能力成熟度模型集成__ （也有人称之为：软件能力成熟度集成模型）。它是一个过程改进方法，其目的是帮助软件企业对软件工程工程进行管理和改进，增强开发与改进能力，从而能够按时且不超预算地开发出高质量地软件。改模型依据的想法是：只要集中精力持续努力去建立有效的软件工程过程的基础结构，不断进行管理的实践和过程的改进，就可以克服软件开发中的困难。CMMI 为改进一个组织的各种过程提供了一个单一的集成化框架，其主要关注点就是成本效益、明确重点、过程集中和灵活性四个方面
@@ -74,7 +74,7 @@ title: "SSAD HW1"
 <center><b>Table PSP 2.1</b>
     
 |   PSP State   |  Description  | Statistics Standard |
-| ------------- | -------------: | :-------------: |
+| ------------- | ------------- | ------------- |
 | Planning  |  计划阶段             |            |
 |    · Estimate  |   · 估计这个任务需要多少时间   |             |
 | Development  | 开发阶段      |            |
