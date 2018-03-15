@@ -3,7 +3,7 @@ layout: post
 title: "Homework1"
 ---
 # Homework 1
-##
+
 ## 软件工程的定义
 ## 阅读经典名著“人月神话”等资料，解释 software crisis、COCOMO 模型。
 ## 软件生命周期。
