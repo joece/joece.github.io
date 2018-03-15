@@ -70,5 +70,5 @@ title: "Homework1"
 
 ---
 State: Plannig
-Time:  
+Time:    
 --- 
