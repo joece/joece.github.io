@@ -69,6 +69,6 @@ title: "Homework1"
 <center><b>Table PSP 2.1</b></center>
 
 ---
-State: Plannig; Development;
-Time: 
+State: Plannig
+Time:  
 --- 
