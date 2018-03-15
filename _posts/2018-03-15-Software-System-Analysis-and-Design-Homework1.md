@@ -39,6 +39,7 @@ title: "Homework1"
 
     __软件生命周期（Software Development LifeCycle）__ 是指软件的产生直到报废或停止使用的生命周期。周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段。但随着新的面向对象的设计方法和技术的成熟，这样的周期概念也正逐渐减弱。
 
+
 - __按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？__
     
     - 软件需求（Software requirements）
@@ -60,8 +61,8 @@ title: "Homework1"
     - Level 3 - Defined：已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。所有项目均使用经批准、剪裁的标准软件过程来开发和维护软件，软件产品的生产在整个软件过程是可见的
     - Level 4 - Quantitatively Managed：分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。管理有一个作出结论的客观依据，管理能够在定量的范围内预测性能
     - Level 5 - Optimizing：过程的量化反馈和先进的新思想、新技术促使过程持续不断改进
-   
-   
+
+
 - __用自己语言简述 SWEBok 或 CMMI （约200字）__
 
     CMMI 全称是 Capability Maturity Model Integration，即 __能力成熟度模型集成__ （也有人称之为：软件能力成熟度集成模型）。它是一个过程改进方法，其目的是帮助软件企业对软件工程工程进行管理和改进，增强开发与改进能力，从而能够按时且不超预算地开发出高质量地软件。改模型依据的想法是：只要集中精力持续努力去建立有效的软件工程过程的基础结构，不断进行管理的实践和过程的改进，就可以克服软件开发中的困难。CMMI 为改进一个组织的各种过程提供了一个单一的集成化框架，其主要关注点就是成本效益、明确重点、过程集中和灵活性四个方面
@@ -75,22 +76,5 @@ title: "Homework1"
 |   PSP State   |  Description  | Statistics Standard |
 | ------------- | ------------- | ------------- |
 | Planning  |  计划阶段             |            |
-|    · Estimate  |     · 估计这个任务需要多少时间   |             |
-| Development  |  开发阶段      |            |
-|    · Analysis  |     · 分析需求   |             |
-|    · Design Spec |     · 生成设计文档    |             |
-|    · Design Review |     · 设计复审（和同事审核设计文档）    |             |
-|    · Coding Standard |     · 代码规范（为目前的开发制定合适的规范）    |             |
-|    · Design|     · 具体设计    |             |
-|    · Coding |     · 具体编码   |             |
-|    · Code Review |     · 代码复审    |             |
-|    · Test |     · 测试（包括自我测试、修改代码、提交修改）    |             |
-| Record Time Spent |  记录时间花费    |             |
-| Test Report |  测试报告    |             |
-| Size Measurement | 计算工作量    |            |
-| Record Time Spent |  记录时间花费    |             |
-| Postmortem |  事后总结    |             |
-| Process Improvement Plan |  提出过程改进计划    |             |
-
 </center>
 
