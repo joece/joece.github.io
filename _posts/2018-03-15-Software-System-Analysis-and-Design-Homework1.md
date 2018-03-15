@@ -41,7 +41,8 @@ $$P=E/D$$    
 软件生命周期（Software Development LifeCycle）是指软件的产生直到报废或停止使用的生命周期。周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段。但随着新的面向对象的设计方法和技术的成熟，这样的周期概念也正逐渐减弱。
 
 - __按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？__
-    - 软件需求（Software requirements）
+    
+    - 软件需求（Software requirements）
     - 软件设计（Software design）
     - 软件建构（Software construction）
     - 软件测试（Software test）
@@ -53,7 +54,8 @@ $$P=E/D$$    
     - 软件质量（Software Quality）
 
 - __解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式__
-    - Level 1 - Initial：无序，自发生产模式
+    
+    - Level 1 - Initial：无序，自发生产模式
     - Level 2 - Managed：建立了基本的项目管理过程来跟踪费用、进度和功能特性。制定了必要的过程纪律，能重复早先类似应用项目取得的成功经验
     - Level 3 - Defined：已将软件管理和工程两方面的过程文档化、标准化，并综合成该组织的标准软件过程。所有项目均使用经批准、剪裁的标准软件过程来开发和维护软件，软件产品的生产在整个软件过程是可见的
     - Level 4 - Quantitatively Managed：分析对软件过程和产品质量的详细度量数据，对软件过程和产品都有定量的理解与控制。管理有一个作出结论的客观依据，管理能够在定量的范围内预测性能
