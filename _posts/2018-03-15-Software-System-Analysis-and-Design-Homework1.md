@@ -71,7 +71,7 @@ title: "Homework1"
 |   PSP State   |  Description  | Statistics Standard |
 | ------------- | ------------- | ------------- |
 | Planning  |  计划阶段             |            |
-|    · Estimate  |    · 估计这个任务需要多少时间   |             |
+|    · Estimate  |     · 估计这个任务需要多少时间   |             |
 | Development  |  开发阶段      |            |
 |    · Analysis  |     · 分析需求   |             |
 |    · Design Spec |     · 生成设计文档    |             |
