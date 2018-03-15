@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Homework1"
+title: "SSAD HW1"
 ---
 <b>Homework1 of Software-System-Analysis-and-Design</b>
 
@@ -11,14 +11,14 @@ title: "Homework1"
 
 - __阅读经典名著“人月神话”等资料，解释 software crisis、COCOMO 模型__
 
-    __Software Crisis（软件危机）__ 是早期计算机科学的一个术语，是指在软件开发及维护的过程中所遇到的一系列严重问题，这些问题皆可能导致软件产品的寿命缩短、甚至夭折。软件开发是一项高难度、高风险的活动，由于它的高失败率，故有所谓“软件危机”之说。从本质上来说，它谈到了写出正确、可理解、可验证的计算机程序的困难。危机表现在几个方面：
+    [__Software Crisis（软件危机）__](https://en.wikipedia.org/wiki/Software_crisis)是早期计算机科学的一个术语，是指在软件开发及维护的过程中所遇到的一系列严重问题，这些问题皆可能导致软件产品的寿命缩短、甚至夭折。软件开发是一项高难度、高风险的活动，由于它的高失败率，故有所谓“软件危机”之说。从本质上来说，它谈到了写出正确、可理解、可验证的计算机程序的困难。危机表现在几个方面：
     - 项目运行超出预算
     - 项目运行超过时间
     - 软件质量低落
     - 软件通常不匹配需求
     - 项目无法管理，且代码难以维护
     
-    __COCOMO 模型（Constructive Cost Model，构造性成本模型）__ ，是由巴里·勃姆（Barry Boehm）提出的一种软件成本估算方法，基本的 COCOMO 是一种静态的单值模型，它使用以每千源代码行数（KLoC）来度量的程序大小来计算软件开发的工作量（及成本），其基本等式如下：    
+    [__COCOMO 模型（Constructive Cost Model，构造性成本模型）__](https://en.wikipedia.org/wiki/COCOMO)，是由巴里·勃姆（Barry Boehm）提出的一种软件成本估算方法，基本的 COCOMO 是一种静态的单值模型，它使用以每千源代码行数（KLoC）来度量的程序大小来计算软件开发的工作量（及成本），其基本等式如下：    
 
     $$E=a_b(KLOC)^{b_b}$$ 
 
@@ -37,7 +37,7 @@ title: "Homework1"
 
 - __软件生命周期__
 
-    __软件生命周期（Software Development LifeCycle）__ 是指软件的产生直到报废或停止使用的生命周期。周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段。但随着新的面向对象的设计方法和技术的成熟，这样的周期概念也正逐渐减弱。
+    [__软件生命周期（Software Development LifeCycle）__](https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/861455?fr=aladdin) 是指软件的产生直到报废或停止使用的生命周期。周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段。但随着新的面向对象的设计方法和技术的成熟，这样的周期概念也正逐渐减弱。
 
 
 - __按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？__
@@ -65,7 +65,7 @@ title: "Homework1"
 
 - __用自己语言简述 SWEBok 或 CMMI （约200字）__
 
-    CMMI 全称是 Capability Maturity Model Integration，即 __能力成熟度模型集成__ （也有人称之为：软件能力成熟度集成模型）。它是一个过程改进方法，其目的是帮助软件企业对软件工程工程进行管理和改进，增强开发与改进能力，从而能够按时且不超预算地开发出高质量地软件。改模型依据的想法是：只要集中精力持续努力去建立有效的软件工程过程的基础结构，不断进行管理的实践和过程的改进，就可以克服软件开发中的困难。CMMI 为改进一个组织的各种过程提供了一个单一的集成化框架，其主要关注点就是成本效益、明确重点、过程集中和灵活性四个方面
+    [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) 全称是 Capability Maturity Model Integration，即 __能力成熟度模型集成__ （也有人称之为：软件能力成熟度集成模型）。它是一个过程改进方法，其目的是帮助软件企业对软件工程工程进行管理和改进，增强开发与改进能力，从而能够按时且不超预算地开发出高质量地软件。改模型依据的想法是：只要集中精力持续努力去建立有效的软件工程过程的基础结构，不断进行管理的实践和过程的改进，就可以克服软件开发中的困难。CMMI 为改进一个组织的各种过程提供了一个单一的集成化框架，其主要关注点就是成本效益、明确重点、过程集中和灵活性四个方面
  
  
 ### 2、解释 PSP 各项指标及技能要求
@@ -76,5 +76,21 @@ title: "Homework1"
 |   PSP State   |  Description  | Statistics Standard |
 | ------------- | ------------- | ------------- |
 | Planning  |  计划阶段             |            |
+|    · Estimate  |   · 估计这个任务需要多少时间   |             |
+| Development  | 开发阶段      |            |
+|    · Analysis  |   · 分析需求   |             |
+|    · Design Spec |   · 生成设计文档   |             |
+|    · Design Review |   · 设计复审（和同事审核设计文档）   |             |
+|    · Coding Standard |   · 代码规范（为目前的开发制定合适的规范）   |             |
+|    · Design|   · 具体设计   |             |
+|    · Coding |   · 具体编码  |             |
+|    · Code Review |   · 代码复审   |             |
+|    · Test |   · 测试（包括自我测试、修改代码、提交修改）   |             |
+| Record Time Spent | 记录时间花费   |             |
+| Test Report | 测试报告   |             |
+| Size Measurement | 计算工作量   |            |
+| Record Time Spent | 记录时间花费   |             |
+| Postmortem | 事后总结   |             |
+| Process Improvement Plan | 提出过程改进计划   |             |
 </center>
 
