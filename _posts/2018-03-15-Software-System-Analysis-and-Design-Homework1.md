@@ -43,15 +43,15 @@ $$P=E/D$$    
 - __按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？__
     
     - 软件需求（Software requirements）
-    - 软件设计（Software design）
-    - 软件建构（Software construction）
-    - 软件测试（Software test）
-    - 软件维护与更新（Software maintenance）
-    - 软件构型管理（Software Configuration Management, SCM）
-    - 软件工程管理（Software Engineering Management）
-    - 软件开发过程（Software Development Process）
-    - 软件工程工具与方法（Software Engineering Tools and methods）
-    - 软件质量（Software Quality）
+    - 软件设计（Software design）
+    - 软件建构（Software construction）
+    - 软件测试（Software test）
+    - 软件维护与更新（Software maintenance）
+    - 软件构型管理（Software Configuration Management, SCM）
+    - 软件工程管理（Software Engineering Management）
+    - 软件开发过程（Software Development Process）
+    - 软件工程工具与方法（Software Engineering Tools and methods）
+    - 软件质量（Software Quality）
 
 - __解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式__
     
