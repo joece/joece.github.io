@@ -20,9 +20,9 @@ title: "Homework1"
     
     __COCOMO 模型（Constructive Cost Model，构造性成本模型）__ ，是由巴里·勃姆（Barry Boehm）提出的一种软件成本估算方法，基本的 COCOMO 是一种静态的单值模型，它使用以每千源代码行数（KLoC）来度量的程序大小来计算软件开发的工作量（及成本），其基本等式如下：
    
-   $ E=a_b(KLOC)^{b_b} $ 
-   $ D=c_b(E)^{d_b} $ 
-   $ P=E/D $ 
+   $E=a_b(KLOC)^{b_b}$ 
+   $D=c_b(E)^{d_b}$ 
+   $P=E/D$ 
     
 - __软件生命周期__
 - __按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？__
