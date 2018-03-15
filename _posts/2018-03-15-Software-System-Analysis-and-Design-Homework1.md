@@ -67,6 +67,7 @@ title: "Homework1"
 - __阅读《现代软件工程》的 PSP：Personal Software Process 章节，按表格 PSP 2.1，了解一个软件工程师在接到一个任务之后要做什么，需要哪些技能，解释你打算如何统计每项数据？__ 
 
 <center><b>Table PSP 2.1</b></center>
+
 |State                   |Time     | 
 |-----                   |:-------:| 
 |State                   |Time     | 
