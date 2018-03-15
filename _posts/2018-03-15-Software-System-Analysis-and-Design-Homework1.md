@@ -70,7 +70,22 @@ title: "Homework1"
     
 |   PSP State   |  Description  | Statistics Standard |
 | ------------- | ------------- | ------------- |
-| Planning  | 估计这个任务需要多少时间  |            |
-| Content Cell  | Content Cell  |             |
+| Planning  |   计划阶段             |            |
+|    · Estimate  | · 估计这个任务需要多少时间   |             |
+| Development  |   开发阶段      |            |
+|    · Analysis  | · 分析需求   |             |
+|    · Design Spec | · 生成设计文档    |             |
+|    · Design Review | · 设计复审（和同事审核设计文档）    |             |
+|    · Coding Standard | · 代码规范（为目前的开发制定合适的规范）    |             |
+|    · Design| · 具体设计    |             |
+|    · Coding | · 具体编码   |             |
+|    · Code Review | · 代码复审    |             |
+|    · Test | · 测试（包括自我测试、修改代码、提交修改）    |             |
+| Record Time Spent |  记录时间花费    |             |
+| Test Report |  测试报告    |             |
+| Size Measurement |  计算工作量    |             |
+| Record Time Spent |  记录时间花费    |             |
+| Postmortem |  事后总结    |             |
+| Process Improvement Plan |  提出过程改进计划    |             |
 </center>
 
