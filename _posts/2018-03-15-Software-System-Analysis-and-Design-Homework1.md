@@ -2,7 +2,7 @@
 layout: post
 title: "Homework1"
 ---
- <center>#### Homework1 of Software-System-Analysis-and-Design</center>
+<center><b>Homework1 of Software-System-Analysis-and-Design</b></center>
 
 #### 1、简答题
 - __软件工程的定义__
