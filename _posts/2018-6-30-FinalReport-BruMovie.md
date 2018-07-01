@@ -10,6 +10,7 @@ Github 是真的很棒！系分让我深入并开始深度去使用它了！
 感谢这个学期 pan sir 的幽默风趣的讲学，感谢 Ta 们的包容与辛勤指导，更感谢队友们的提携和帮助！感谢 ZGT 大队长辛苦带领~ 感谢每一位成员的贡献！
 
 ### PSP 2.1 统计表
+
 | Step | Time / Hours |
 |----------| ---- |
 |**Planing**|  3  |
@@ -27,6 +28,7 @@ Github 是真的很棒！系分让我深入并开始深度去使用它了！
 |  ·Test Report |  2  |
 |  ·Size Measurement |  1  |
 |  ·Postmortem & Process Improvement Plan |  3  |
+
 
 ### 个人分支的 GIT 统计报告
 ![git_contributor](https://github.com/joece/joece.github.io/blob/master/_includes/git_record/git_commit.jpg?raw=true)
